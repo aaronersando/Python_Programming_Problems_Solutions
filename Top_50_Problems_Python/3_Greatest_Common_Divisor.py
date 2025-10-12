@@ -11,7 +11,6 @@ def getalldivs(n):
 divs1 = list(reversed(getalldivs(n1)))
 divs2 = list(reversed(getalldivs(n2)))
 
-
 gdc = 0
 
 if len(divs1) < len(divs2):
