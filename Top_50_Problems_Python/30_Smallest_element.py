@@ -1,0 +1,1 @@
+print(min(list(map(int, input('Enter nums: ').split()))))
